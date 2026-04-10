@@ -20,7 +20,7 @@ I am a third-year university student and engineer passionate about the intersect
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java, Go, Python, SQL |
+| **Languages** | Java, Python, SQL |
 | **Backend & APIs** | Spring Boot, REST APIs, Microservices, Maven, gRPC |
 | **Data Engineering** | Spark, PySpark, Debezium, dbt, Kafka, Databricks, Dagster |
 | **Databases** | PostgreSQL, ClickHouse, Redis |
