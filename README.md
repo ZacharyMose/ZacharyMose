@@ -22,9 +22,9 @@ I am a third-year university student and engineer passionate about the intersect
 | :--- | :--- |
 | **Languages** | Java, Python, SQL |
 | **Backend & APIs** | Spring Boot, REST APIs, Microservices, Maven, gRPC |
-| **Data Engineering** | Spark, PySpark, Debezium, dbt, Kafka, Databricks, Dagster |
+| **Data Engineering** | Debezium, dbt, Kafka, Databricks, Dagster |
 | **Databases** | PostgreSQL, ClickHouse, Redis |
-| **Infrastructure** | Docker, Kubernetes, CI/CD, Linux, Git |
+| **Infrastructure** | Docker, CI/CD, Linux, Git, GitHub|
 | **IoT & Hardware** | Raspberry Pi, ESP32/ESP8266, Arduino, Sensor Networks |
 
 ---
